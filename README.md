@@ -26,11 +26,11 @@ We learnt a lot about teamwork and managing our time efficiently. We enjoyed wor
 We plan on implementing our own OCR model that can recognise images captured via camera and display them on the screen so the user can cross-verify the input. We aim to shed light on ethical fashion, thereby urging companies to promote sustainability.
 
 ## Built With
-css
-flask
-html
-javascript
-jquery
-opencv
-pyteserract
-python
+### css
+### flask
+### html
+### javascript
+### jquery
+### opencv
+### pyteserract
+### python
