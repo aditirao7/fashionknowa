@@ -1,7 +1,7 @@
 # Shellhacks 2021
 Project for ShellHacks Hackathon 2021
 
-![alt text](https://github.com/aditirao7/shellhacks/shellhacks/static/img/favicon.png)
+![alt text](https://github.com/aditirao7/shellhacks/blob/main/shellhacks/static/img/favicon.png)
 
 Hosted at https://fashionknowa.herokuapp.com/
 
