@@ -1,4 +1,4 @@
-# Shellhacks 2021
+# Fashionknowa - Shellhacks 2021
 Project for ShellHacks Hackathon 2021
 
 ![alt text](https://github.com/aditirao7/shellhacks/blob/main/shellhacks/static/img/favicon.png)
