@@ -24,7 +24,7 @@ We are proud of the fact that we successfully managed to complete most functiona
 ## What we learned
 We learnt a lot about teamwork and managing our time efficiently. We enjoyed working under the pressure and time crunch of a large scale hackathon like ShellHacks. The workshops conducted were especially helpful since all the mentors provided tips and tricks. The internship opportunities will also be very helpful in advancing our careers.
 
-## What's next for FashionKnowa
+## What's next for FashionKnowa?
 We plan on implementing our own OCR model that can recognise images captured via camera and display them on the screen so the user can cross-verify the input. We aim to shed light on ethical fashion, thereby urging companies to promote sustainability.
 
 ## Built With
