@@ -9,7 +9,7 @@ Project for ShellHacks Hackathon 2021
 
 
 
-Hosted at [https://fashionknowa.herokuapp.com/](https://fashionknowa.onrender.com/)
+Hosted at [https://fashionknowa.onrender.com/](https://fashionknowa.onrender.com/)
 
 
 
